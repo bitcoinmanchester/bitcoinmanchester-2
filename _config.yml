@@ -1,82 +1,25 @@
 # Site settings
-title: The Bitcoin Association of Hong Kong
-location: Hong Kong
+title: Bitcoin Manchester
+location: "Manchester, UK"
 description: "Fostering and promoting Bitcoin and its technology in Hong Kong."
 baseurl: ""
-url: "https://www.bitcoinhk.org"
+url: "http://www.manchester.org.uk"
 
 # More settings
-accent: "#E74C3C"
-github: "bitcoinhk/bitcoinhk.github.io"
-contact: "info@bitcoinhk.org"
-organizers: "The Community"
-email: "info@bitcoinhk.org"
+accent: "#00BBFF" # From the logo
+github: "bitcoinmanchester/bitcoinmanchester.github.io"
+contact: "hello@bitcoinmanchester.org.uk"
+organizers: "The Bitcoin Manchester Team"
+email: "hello@bitcoinmanchester.org.uk"
 
 # Get Meetup Notifications, visible or hidden
 notifications: "visible"
-
 
 # Build settings
 markdown: kramdown
 permalink: pretty
 
-timezone: Asia/Hong_Kong
+timezone: Europe/London
 
 gems:
   - jekyll-redirect-from
-
-prose:
-  rooturl: '_posts'
-  siteurl: 'https://www.bitcoinhk.org/'
-  media: 'media'
-  ignore:
-    - index.html
-    - meetups.html
-    - _config.yml
-    - /_layouts
-    - /_includes
-  metadata:
-    _posts:
-      - name: "layout"
-        field:
-          element: "select"
-          options:
-            - name: 'meetup'
-              value: 'meetup'
-            - name: 'blog'
-              value: 'blog'
-      - name: "author"
-        field:
-          element: "text"
-          label: "Author (Passcard w/ leading +)"
-          value: ""
-      - name: "permalink"
-        field:
-          element: "text"
-          label: "Permalink"
-          value: ""
-      - name: "date"
-        field:
-          element: "text"
-          label: "Date (YYYY-MM-DD HH:MM:SS)"
-          value: "2014-06-08 10:30:00"
-      - name: "host"
-        field:
-          element: "text"
-          label: "Host"
-          value: ""
-      - name: "address"
-        field:
-          element: "text"
-          label: "Address"
-          value: ""
-      - name: "link"
-        field:
-          element: "text"
-          label: "Link to RSVP site (Meetup.com, etc)"
-          value: ""
-      - name: "background"
-        field:
-          element: "text"
-          label: "Background (CSS)"
-          value: "url() #FF0000"
