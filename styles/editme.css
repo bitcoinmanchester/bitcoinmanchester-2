@@ -1,6 +1,14 @@
 /* Need to override something? Write your CSS here, and use !important only if neccessary.  */
+
+/* The Bitcoin Manchester colour is #00BBFF */
+
 .bg-accent, .logo, nav a.logo, .cover {
-  background-color: red;
+  background-color: #00BBFF;
+}
+
+.bg-accent-shaded {
+  /* equivalent to casting a 0.2 opacity black div over the top */
+  background-color: #1CA1CA;
 }
 
 a, .text-accent, .dotted-link, p a, article a {
