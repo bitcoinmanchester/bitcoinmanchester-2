@@ -6,11 +6,6 @@
   background-color: #00BBFF;
 }
 
-.bg-accent-shaded {
-  /* equivalent to casting a 0.2 opacity black div over the top */
-  background-color: #1CA1CA;
-}
-
 a, .text-accent, .dotted-link, p a, article a {
   color: #00BBFF;
   font-weight: bold;
@@ -40,7 +35,13 @@ nav a.logo {
 }
 
 footer {
-  background-color: white;
+  color: white;
+  /* equivalent to casting a 0.2 opacity black div over the top */
+  background-color: #1CA1CA;
+}
+
+footer a {
+  color: inherit;
 }
 
 footer img {
@@ -78,8 +79,6 @@ footer img {
     -webkit-order: 3;
   }
 }
-
-
 
 figure {
   margin: 0;
