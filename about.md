@@ -4,7 +4,7 @@ title: "About"
 caption: "Learn more"
 subtitle: "Bringing together Bitcoin users in Manchester"
 icon: "user"
-background: "url(/images/bahk-blue-skyline.png) #00BBFF"
+background: "url(/images/skyline.png) #00BBFF"
 permalink: "/about/"
 navigation: "visible"
 ---
