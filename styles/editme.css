@@ -12,7 +12,8 @@
 }
 
 a, .text-accent, .dotted-link, p a, article a {
-  color: red;
+  color: #00BBFF;
+  font-weight: bold;
 }
 
 .logo img {

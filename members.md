@@ -4,7 +4,7 @@ title: "Members"
 caption: "Learn more"
 subtitle: "Join us today!"
 icon: "user"
-background: " url(/images/founding-day.jpeg) #FF0000"
+background: "url(/images/bahk-blue-skyline.png) #00BBFF"
 permalink: "/members/"
 navigation: "visible"
 ---
