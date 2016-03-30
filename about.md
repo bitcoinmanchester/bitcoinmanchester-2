@@ -9,7 +9,7 @@ permalink: "/about/"
 navigation: "visible"
 ---
 
-Bitcoin Manchester is still developing and growing. It needs your help! If you want to contribute, please get in touch [and become a member](/join)!
+Bitcoin Manchester is still developing and growing. It needs your help! If you want to contribute, please get in touch and [become a member][members]!
 
 ## Goals
 
@@ -27,7 +27,8 @@ Up until March 2016, we ran off a forked version of the [Sheffield Ruby User Gro
 
 Around the end of 2015, Max visited Hong Kong and met Leonhard Weese and other members of the Bitcoin Association Hong Kong, and we are now using a forked version of the [Bitcoin HK][bitcoinhk] site. Thanks guys!
 
-[shrug]: https://shrug.org/
-[bitcoinhk]: https://www.bitcoinhk.org/members/
+[members]: /members
 [maxsan]: https://onename.com/maxsan
 [ashmoran]: https://onename.com/ashmoran
+[shrug]: https://shrug.org/
+[bitcoinhk]: https://www.bitcoinhk.org/members/
