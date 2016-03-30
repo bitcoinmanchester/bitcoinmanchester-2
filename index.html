@@ -63,7 +63,7 @@ excerpt: "Bitcoin events and information in Manchester"
                 </div>
                 <h3>{{ post.title }}</h3>
                 {% if post.layout == "meetup" %}
-                <p>{{ post.date | date: "%H:%M" }} HKT {% if post.address %}at {{ post.address }}{% endif %}</p>
+                <p>{{ post.date | date: "%H:%M" }} {% if post.address %}at {{ post.address }}{% endif %}</p>
                 {% else %}
 
                 {% if post.subtitle %}
