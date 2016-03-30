@@ -20,7 +20,3 @@ Bitcoin Manchester is still developing and growing. It needs your help! If you w
 ## History
 
 Bitcoin Manchester was founded by Max Flores and Ash Moran who met at the Bitcoin Conference London 2012. Nine months later they met again by accident in Manchester. They had both been independently thinking that Manchester needed a meeting point for Bitcoin enthusiasts, and so Bitcoin Mancester was formed.
-
-## Contact
-
-Please see our [contact](/contact/) page for details.
