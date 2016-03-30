@@ -2,25 +2,25 @@
 layout: "page"
 title: "About"
 caption: "Learn more"
-subtitle: "Serving the Hong Kong community"
+subtitle: "Bringing together Bitcoin users in Manchester"
 icon: "user"
 background: "url(/images/plug_and_pay.jpg) #FF0000"
 permalink: "/about/"
 navigation: "visible"
 ---
 
-The Bitcoin Association of Hong Kong is still developing and growing. It needs your help! If you want to contribute, please get in touch [and become a member](/join)!
+Bitcoin Manchester is still developing and growing. It needs your help! If you want to contribute, please get in touch [and become a member](/join)!
 
 ## Goals
 
-* Foster and promote Bitcoin and its technology in Hong Kong.
-* Educate all stakeholders, private, public, and government about the benefits and risks of Bitcoin and its technology.
-* Be a reliable, trusted and accessible resource for the local and international Bitcoin community.
+* Foster and promote Bitcoin and its technology in Manchester
+* Educate all stakeholders, private, public, and government about the benefits and risks of Bitcoin and its technology
+* Be a reliable, trusted and accessible resource for the local and international Bitcoin community
 
 ## History
 
-The Bitcoin Association Hong Kong stems from a group of people who started to discuss and promote Bitcoin in Hong Kong in the summer of 2012. As the group of people and Bitcoin grew the enthusiasts began to formalize and organize themselves to further promote the use of Bitcoin and related technologies in Hong Kong.
+Bitcoin Manchester was founded by Max Flores and Ash Moran who met at the Bitcoin Conference London 2012. Nine months later they met again by accident in Manchester. They had both been independently thinking that Manchester needed a meeting point for Bitcoin enthusiasts, and so Bitcoin Mancester was formed.
 
-## Press
+## Contact
 
-Please [contact](/contact/) us for media inquiries. Logos and graphics suitable for publication are available in our press kit.
+Please see our [contact](/contact/) page for details.
