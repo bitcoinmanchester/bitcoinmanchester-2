@@ -13,9 +13,9 @@ Bitcoin Manchester is still developing and growing. It needs your help! If you w
 
 ## Goals
 
-* Foster and promote Bitcoin and its technology in Manchester
-* Educate all stakeholders, private, public, and government about the benefits and risks of Bitcoin and its technology
-* Be a reliable, trusted and accessible resource for the local and international Bitcoin community
+* Promote Bitcoin and cryptocurrency technology in Manchester
+* Educate all private, public, and government stakeholders about the benefits and risks of Bitcoin and related technology
+* Be a valuable and trusted resource for the local Bitcoin community
 
 ## History
 
