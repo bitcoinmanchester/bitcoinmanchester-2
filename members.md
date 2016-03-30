@@ -13,7 +13,7 @@ Bitcoin Manchester is open to all individuals with a connection to Manchester wh
 
 ## Become a Member
 
-Join our [Meetup Group](http://www.meetup.com/Bitcoin-Manchester/) to be alerted immediately about new events!
+Join our [Meetup.com Group](http://www.meetup.com/Bitcoin-Manchester/) to be alerted immediately about new events!
 
 Join our [Mailing List](https://groups.google.com/d/forum/bitcoin-manchester) to discuss the group and receive announcements by email.
 
