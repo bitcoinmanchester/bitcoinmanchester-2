@@ -10,15 +10,15 @@ background: "url(/media/2015/05/inside-bitcoins-2015-day-1-cover.jpg) #FF0000"
 published: true
 ---
 
-Inside Bitcoins is a series of conferences organized by Mecklermedia. It is being held in Hong Kong for the second time. 
+Inside Bitcoins is a series of conferences organized by Mecklermedia. It is being held in Hong Kong for the second time.
 
-One-day ticket: 1480 HKD 
+One-day ticket: 1480 HKD
 
-Full pass: 2180 HKD (early bird offer ends April 28) 
+Full pass: 2180 HKD (early bird offer ends April 28)
 
-Networking pass: Free 
+Networking pass: Free
 
-Students and government employees can enjoy a 15% discount. Please contact the organizers directly. 
+Students and government employees can enjoy a 15% discount. Please contact the organisers directly.
 
 Bitcoins of course accepted.
 

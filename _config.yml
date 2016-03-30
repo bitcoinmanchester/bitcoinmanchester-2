@@ -9,7 +9,7 @@ url: "http://www.bitcoinmanchester.org.uk"
 accent: "#00BBFF" # From the logo
 github: "bitcoinmanchester/bitcoinmanchester.github.io"
 contact: "hello@bitcoinmanchester.org.uk"
-organizers: "The Bitcoin Manchester Team"
+organisers: "The Bitcoin Manchester Team"
 email: "hello@bitcoinmanchester.org.uk"
 
 # Get Meetup Notifications, visible or hidden
