@@ -1,6 +1,6 @@
-# [BAHK Website](https://www.bitcoinhk.org/)
+# [Bitcoin Manchester Website](https://www.www.bitcoinmanchester.org.uk/)
 
-A Jekyll-flavored hosted on GitHub pages.
+A Jekyll-flavored blog hosted on GitHub pages.
 
 ## To run/generate locally
 
