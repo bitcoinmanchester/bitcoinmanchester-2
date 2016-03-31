@@ -7,7 +7,7 @@ address: 36-40 Edge Street, Manchester, M4 1HN
 link: http://www.meetup.com/Bitcoin-Manchester/events/228944822/
 venue_location_link: https://madlab.org.uk/find-us/
 # background: "url(/media/meetings/201x/xx/xxx.png) #112233"
-# published: false
+published: false
 ---
 
 ## Our next topic
