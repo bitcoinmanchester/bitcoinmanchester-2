@@ -27,7 +27,6 @@ future: true
 defaults:
   - scope:
       path: ""
-      # type: "meetings"
+      type: "posts"
     values:
       layout: "meetup"
-      foo: "bar"
