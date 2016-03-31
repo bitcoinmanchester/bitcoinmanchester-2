@@ -1,4 +1,6 @@
-# [Bitcoin Manchester Website](https://www.www.bitcoinmanchester.org.uk/)
+# [Bitcoin Manchester Website][www]
+
+[@bitcoin_mcr][twitter]
 
 A Jekyll-flavored blog hosted on GitHub pages.
 
@@ -19,3 +21,6 @@ To to run the site:
 ```
 rake serve
 ```
+
+[www]: http://www.bitcoinmanchester.org.uk/
+[twitter]: https://twitter.com/bitcoin_mcr
