@@ -44,8 +44,9 @@ footer a {
   color: inherit;
 }
 
-footer img {
+footer img#site-logo {
   max-width: 210px;
+  border-radius: 5px;
 }
 
 .footnote {
