@@ -23,7 +23,7 @@ navigation: visible
                   </div>
                 </div>
                 <h3>{{ meeting.title }}</h3>
-                <p>{{ meeting.date | date: "%H:%M" }} at {{ meeting.address }}</p>
+                <p>{{ meeting.date | date: "%l:%M%P" }} at {{ meeting.address }}</p>
               </a>
               <br>
             {% endif %}
@@ -45,7 +45,7 @@ navigation: visible
                     </div>
                   </div>
                   <h3>{{ meeting.title }}</h3>
-                  <p>{{ meeting.date | date: "%H:%M" }} at {{ meeting.address }}</p>
+                  <p>{{ meeting.date | date: "%l:%M%P" }} at {{ meeting.address }}</p>
                 </a>
                 <br>
               {% endif %}

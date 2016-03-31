@@ -18,7 +18,7 @@ Our next topic is cool
 
 As always we'll have sponsored pizza provided by one of the Bitcoin-accepting [Takeaway.com][takeaway] vendors.
 
-Finally at around 9pm we'll head to the pub, which of course is our new friend [Terrace][terrace] right next to MadLab.
+Finally at around 9pm we'll head to the pub, which is our new friend [Terrace][terrace] right next to MadLab.
 
 [takeaway]: http://www.takeaway.com/
 [terrace]: https://twitter.com/nqterrace
