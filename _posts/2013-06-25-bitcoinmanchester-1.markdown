@@ -1,6 +1,5 @@
 ---
 categories: meetings
-layout: meetup
 title: "Inaugural meeting"
 date: "2013-06-25 19:00"
 venue: MadLab

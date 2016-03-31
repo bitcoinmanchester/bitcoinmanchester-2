@@ -1,6 +1,5 @@
 ---
 categories: meetings
-layout: meetup
 title: "SatoshiPoint Bitcoin ATM Launch Party"
 date: "2014-11-07 18:00"
 venue: CellCity, then later Allotment Bar

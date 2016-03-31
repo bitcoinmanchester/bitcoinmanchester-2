@@ -1,6 +1,5 @@
 ---
 categories: meetings
-layout: meetup
 title: "Bitcoin Social: Pizza + Pub"
 date: "2015-05-11 19:00"
 venue: MadLab

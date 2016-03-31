@@ -1,6 +1,5 @@
 ---
 categories: meetings
-layout: meetup
 title: "Bitcoin Documentary & Altcoin Discussion"
 date: "2014-06-30 19:00"
 venue: MadLab

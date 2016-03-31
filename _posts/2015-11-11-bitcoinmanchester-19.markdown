@@ -1,6 +1,5 @@
 ---
 categories: meetings
-layout: meetup
 title: "Think & Drink Social"
 date: "2015-11-11 20:00"
 venue: Common

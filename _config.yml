@@ -26,3 +26,11 @@ gems:
   - jekyll-redirect-from
 
 future: true
+
+defaults:
+  - scope:
+      path: ""
+      # type: "meetings"
+    values:
+      layout: "meetup"
+      foo: "bar"

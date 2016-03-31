@@ -1,6 +1,5 @@
 ---
 categories: meetings
-layout: meetup
 title: "Intro to Addresses and the Blockchain"
 date: "2013-11-20 19:00"
 venue: MadLab

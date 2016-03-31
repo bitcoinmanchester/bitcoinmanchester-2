@@ -1,6 +1,5 @@
 ---
 categories: meetings
-layout: meetup
 title: "Jonny from SatoshiPoint – Bitcoin ATMs"
 date: "2014-08-04 19:00"
 venue: MadLab

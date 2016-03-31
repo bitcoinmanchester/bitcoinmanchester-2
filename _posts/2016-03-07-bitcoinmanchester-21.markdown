@@ -1,6 +1,5 @@
 ---
 categories: meetings
-layout: meetup
 title: "Bitcoin in South-East Asia"
 date: "2016-03-07 19:00"
 venue: MadLab

@@ -1,6 +1,5 @@
 ---
 categories: meetings
-layout: meetup
 title: "Trading Tips and Bitcoin in 2014"
 date: "2013-12-09 19:00"
 venue: MadLab

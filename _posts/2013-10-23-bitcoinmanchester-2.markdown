@@ -1,6 +1,5 @@
 ---
 categories: meetings
-layout: meetup
 title: "Bitcoin Conference Europe Roundup"
 date: "2013-10-23 19:00"
 venue: MadLab

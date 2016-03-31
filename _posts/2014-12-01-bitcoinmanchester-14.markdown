@@ -1,6 +1,5 @@
 ---
 categories: meetings
-layout: meetup
 title: "Gov.uk Call for Information, Bearwhale Poster Raffle, Predictions for 2015"
 date: "2014-12-01 19:00"
 venue: MadLab
