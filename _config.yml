@@ -4,6 +4,7 @@ location: "Manchester, UK"
 description: "Bitcoin events and information in Manchester"
 baseurl: ""
 url: "http://www.bitcoinmanchester.org.uk"
+permalink: /:categories/:title
 
 # More settings
 accent: "#00BBFF" # From the logo
@@ -23,3 +24,5 @@ timezone: Europe/London
 
 gems:
   - jekyll-redirect-from
+
+future: true

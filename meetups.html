@@ -11,23 +11,21 @@ navigation: visible
       <p>Join our <a href="https://www.meetup.com/Bitcoin-Manchester/">Meetup.com Group</a> to never miss a meetup!
       <h2>Upcoming Meetups</h2>
       <div class="meetups">
-        {% assign curDate = site.time | date: '%s' %}
-        {% for post in site.posts %}
-        {% if post.layout == "meetup" %}
-            {% assign postStartDate = post.date | date: '%s' %}
-            {% if postStartDate > curDate %}
-              <a class="post-link white-box" href="{{ post.url | prepend: site.baseurl }}">
-                <div class="preview" style="background:{{ post.background }}">
+        {% assign current_date = site.time | date: '%s' %}
+        {% for meeting in site.categories.meetings %}
+            {% assign meeting_start_date = meeting.date | date: '%s' %}
+            {% if meeting_start_date > current_date %}
+              <a class="post-link white-box" href="{{ meeting.url | prepend: site.baseurl }}">
+                <div class="preview" style="background:{{ meeting.background }}">
                   <div class="date">
-                      <small>{{ post.date | date: "%b" }}</small>
-                      {{ post.date | date: "%-d" }}
+                      <small>{{ meeting.date | date: "%b" }}</small>
+                      {{ meeting.date | date: "%-d" }}
                   </div>
                 </div>
-                <h3>{{ post.title }}</h3>
-                <p>{{ post.date | date: "%H:%M" }} at {{ post.address }}</p>
+                <h3>{{ meeting.title }}</h3>
+                <p>{{ meeting.date | date: "%H:%M" }} at {{ meeting.address }}</p>
               </a>
               <br>
-            {% endif %}
             {% endif %}
           {% endfor %}
         </div>
@@ -35,23 +33,21 @@ navigation: visible
 
         <h2>Past Meetups</h2>
         <div class="meetups">
-          {% assign curDate = site.time | date: '%s' %}
-            {% for post in site.posts %}
-            {% if post.layout == "meetup" %}
-              {% assign postStartDate = post.date | date: '%s' %}
-              {% if curDate > postStartDate %}
-              <a class="post-link white-box" href="{{ post.url | prepend: site.baseurl }}">
-                <div class="preview" style="background:{{ post.background }}">
-                  <div class="date">
-                      <small>{{ post.date | date: "%b" }}</small>
-                      {{ post.date | date: "%-d" }}
+          {% assign current_date = site.time | date: '%s' %}
+          {% for meeting in site.categories.meetings %}
+              {% assign meeting_start_date = meeting.date | date: '%s' %}
+              {% if current_date > meeting_start_date %}
+                <a class="post-link white-box" href="{{ meeting.url | prepend: site.baseurl }}">
+                  <div class="preview" style="background:{{ meeting.background }}">
+                    <div class="date">
+                        <small>{{ meeting.date | date: "%b" }}</small>
+                        {{ meeting.date | date: "%-d" }}
+                    </div>
                   </div>
-                </div>
-                <h3>{{ post.title }}</h3>
-                <p>{{ post.date | date: "%H:%M" }} at {{ post.address }}</p>
-              </a>
-              <br>
-              {% endif %}
+                  <h3>{{ meeting.title }}</h3>
+                  <p>{{ meeting.date | date: "%H:%M" }} at {{ meeting.address }}</p>
+                </a>
+                <br>
               {% endif %}
             {% endfor %}
           </div>

@@ -8,7 +8,21 @@ layout: default
         {{ page.date | date: "%-d" }}
       </div>
       <h1>{{ page.title }}</h1>
-      <p class="lead">{{ page.date | date: "%H:%M" }}{% if page.author %} • {{ page.author }}{% endif %}{% if page.address %} • {{ page.address }}{% endif %}{% if page.meta %} • {{ page.meta }}{% endif %} </p>
+      <p class="lead">
+        {{ page.date | date: "%H:%M" }}
+        {% if page.venue %}
+          •
+          {{ page.venue }}
+        {% endif %}
+        {% if page.address %}
+          @
+          {{ page.address }}
+        {% endif %}
+        {% if page.meta %}
+          •
+          {{ page.meta }}
+        {% endif %}
+      </p>
     </div>
   </header>
 
@@ -17,7 +31,23 @@ layout: default
 
   <div id="details">
     <div class="c">
-      <p class="lead">{% if page.host %} Hosted by {{ page.host }}{% endif %} {% if page.link %} • <a href="{{ page.link }}" target="_blank"><i class="icon-board"></i> RSVP</a>{% endif %} {% if page.address %} • <a href="https://maps.google.com/?daddr={{ page.address }}" target="_blank"><i class="icon-binocular"></i> Get Directions</a>{% endif %}</p>
+      <p class="lead">
+        {% if page.venue %}
+          Hosted at {{ page.venue }}
+        {% endif %}
+        {% if page.venue_location_link %}
+          •
+          <a href="{{ page.venue_location_link }}" target="_blank">
+          <i class="icon-binocular"></i>
+          Get Directions
+          </a>
+        {% endif %}
+        {% if page.link %}
+          •
+          <a href="{{ page.link }}" target="_blank">
+          <i class="icon-board"></i> RSVP</a>
+        {% endif %}
+      </p>
     </div>
   </div>
 
