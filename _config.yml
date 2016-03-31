@@ -13,9 +13,6 @@ contact: "hello@bitcoinmanchester.org.uk"
 organisers: "The Bitcoin Manchester Team"
 email: "hello@bitcoinmanchester.org.uk"
 
-# Get Meetup Notifications, visible or hidden
-notifications: "visible"
-
 # Build settings
 markdown: kramdown
 permalink: /:categories/:title
