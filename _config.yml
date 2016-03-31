@@ -18,7 +18,7 @@ notifications: "visible"
 
 # Build settings
 markdown: kramdown
-permalink: pretty
+permalink: /:categories/:title
 
 timezone: Europe/London
 
