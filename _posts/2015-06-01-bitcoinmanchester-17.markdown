@@ -1,5 +1,6 @@
 ---
 categories: meetings
+meeting_type: meetup
 title: "Not an eBay for Drugs: How darknet sites like Silk Road are transforming markets"
 date: "2015-06-01 19:00"
 venue: MadLab

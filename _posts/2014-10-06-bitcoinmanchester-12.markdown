@@ -1,5 +1,6 @@
 ---
 categories: meetings
+meeting_type: meetup
 title: "Jason from Qwikbit – AVMs & Bitcoin in the Isle of Man"
 date: "2014-10-06 19:00"
 venue: New Federation House

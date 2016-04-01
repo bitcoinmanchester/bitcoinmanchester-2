@@ -1,5 +1,6 @@
 ---
 categories: meetings
+meeting_type: meetup
 title: "Smart Property"
 date: "2014-05-22 19:00"
 venue: MadLab

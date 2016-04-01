@@ -1,5 +1,6 @@
 ---
-categories: events
+categories: meetings
+meeting_type: event
 title: "CoinFest UK Apr 8-9"
 date: "2016-04-08 9:00"
 venue: MadLab

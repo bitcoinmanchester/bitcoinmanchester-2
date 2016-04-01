@@ -1,5 +1,6 @@
 ---
 categories: meetings
+meeting_type: meetup
 title: "Mining – History, How To, and Hardware"
 date: "2014-03-03 19:00"
 venue: MadLab

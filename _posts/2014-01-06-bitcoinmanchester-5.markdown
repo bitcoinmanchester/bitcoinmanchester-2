@@ -1,5 +1,6 @@
 ---
 categories: meetings
+meeting_type: meetup
 title: "Planning for 2014"
 date: "2014-01-06 19:00"
 venue: MadLab

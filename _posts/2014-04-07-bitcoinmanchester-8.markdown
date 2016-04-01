@@ -1,5 +1,6 @@
 ---
 categories: meetings
+meeting_type: meetup
 title: "Bitcoin & The Law"
 date: "2014-04-07 19:00"
 venue: MadLab

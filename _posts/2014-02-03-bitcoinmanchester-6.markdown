@@ -1,5 +1,6 @@
 ---
 categories: meetings
+meeting_type: meetup
 title: "Offline Wallets & Coin Storage"
 date: "2014-02-03 19:00"
 venue: MadLab

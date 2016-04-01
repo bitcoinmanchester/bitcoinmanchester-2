@@ -1,5 +1,6 @@
 ---
 categories: meetings
+meeting_type: meetup
 title: "Introduction to Bitcoin & Create a Bitcoin Wallet workshop"
 date: "2015-10-12 19:00"
 venue: Ziferblat

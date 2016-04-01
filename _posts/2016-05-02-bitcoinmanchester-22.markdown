@@ -1,5 +1,6 @@
 ---
 categories: meetings
+meeting_type: meetup
 title: "Our next topic"
 date: "2016-05-02 19:00"
 venue: MadLab

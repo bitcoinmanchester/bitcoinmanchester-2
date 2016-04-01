@@ -1,5 +1,6 @@
 ---
 categories: meetings
+meeting_type: meetup
 title: "BitShares & Christmas Party"
 date: "2015-12-22 19:00"
 venue: MadLab
