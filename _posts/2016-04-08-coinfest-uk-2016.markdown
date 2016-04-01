@@ -5,7 +5,7 @@ title: "CoinFest UK 2016 Apr 8-9"
 date: "2016-04-08 9:00"
 venue: MadLab
 address: 36-40 Edge Street, Manchester, M4 1HN
-link: http://www.meetup.com/CoinFest-UK/events/229558691/
+link: https://coinfestuk.org/booktickets/
 venue_location_link: https://madlab.org.uk/find-us/
 # background: "url(/media/meetings/201x/xx/xxx.png) #112233"
 ---
