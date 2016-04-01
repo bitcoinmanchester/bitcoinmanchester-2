@@ -1,0 +1,51 @@
+---
+categories: events
+title: "CoinFest UK Apr 8-9"
+date: "2016-04-08 9:00"
+venue: MadLab
+address: 36-40 Edge Street, Manchester, M4 1HN
+link: http://www.meetup.com/CoinFest-UK/events/229558691/
+venue_location_link: https://madlab.org.uk/find-us/
+# background: "url(/media/meetings/201x/xx/xxx.png) #112233"
+---
+
+## CoinFest UK 2016
+
+April at MadLab features special two-day event: [CoinFest UK 2016][coinfest], running 9:00am-10:00pm Friday and 9:00-4:00pm Saturday.
+
+Highlights include a number of speakers, among which you will be able to see:
+
+* Gary Broadfield ([@gaslanb][@gaslanb]): Bitcoin and The Law
+* [Hullcoin][hullcoin]: How Blockchain technology can be applied for social good
+* The Bitcoin Rat ([@BitcoinRat][@BitcoinRat]): #bitworldtour Project
+* Chris Jackson: Blockchain: the Strategic Risk to Banking
+* Ronny Boesing ([bit-x.com][bit-x]): The world first fully operational instant bitcoin to cash debit card NanoCard
+* Dan @ [eMunie][emunie]: The eMunie System
+* Chris @ [DNotes][dnotes]: Global decentralised supplemental digital currency
+
+
+… and extra activities and goodies, such as:
+
+* a screening of [Bitcoin: The End of Money As We Know It][bitcoin-teomawki]
+* an international hangout with 3 confirmed speakers
+* freebies, including badges, stickers, and pizza. For full details of all the activities, see the website link.
+
+You can apply for a ticket [here][tickets]. They also have a [Meetup.com event][meetup] you can join if you’re going (newly created so not many people have had chance to join this yet).
+
+CoinFest UK is being organised by [CryptoBates Group][cryptobates]. We’re helping out with a few  things, but all the credit for organising goes to CryptoBates. CryptoBates run a number of projects, including [Crypto Cloud Hosting][cryptocloudhosting], and accept possibly the longest list of cryptocurrencies of any hosting provider, including, of course, Bitcoin.
+
+[coinfest]: http://coinfestuk.org/
+[cryptobates]: http://cryptobatesgroup.co.uk/
+[cryptocloudhosting]: https://cryptocloudhosting.org/
+
+[tickets]: https://coinfestuk.org/booktickets/
+[meetup]: http://www.meetup.com/CoinFest-UK/events/229558691/
+
+[@gaslanb]: https://twitter.com/gaslanb
+[@BitcoinRat]: https://twitter.com/BitcoinRat
+[hullcoin]: http://hull-coin.org/
+[bit-x]: https://bit-x.com/
+[emunie]: http://emunie.com/
+[dnotes]: http://dnotescoin.com/
+
+[bitcoin-teomawki]: http://www.imdb.com/title/tt4654844/
