@@ -20,11 +20,11 @@ excerpt: "Bitcoin events and information in Manchester"
 
       <h2>Upcoming Meetups</h2>
       <div class="meetups">
-        {% assign curDate = site.time | date: '%s' %}
+        {% assign current_date = site.time | date: '%s' %}
         {% for post in site.posts %}
         {% if post.layout == "meetup" %}
-            {% assign postStartDate = post.date | date: '%s' %}
-            {% if postStartDate > curDate %}
+            {% assign post_start_date = post.date | date: '%s' %}
+            {% if post_start_date > current_date %}
               <a class="post-link white-box" href="{{ post.url | prepend: site.baseurl }}">
                 <div class="preview" style="background:{{ post.background }}">
                   <div class="date">
@@ -44,15 +44,15 @@ excerpt: "Bitcoin events and information in Manchester"
 
         <h2>Recent happenings</h2>
         <div class="meetups">
-          {% assign curDate = site.time | date: '%s' %}
+          {% assign current_date = site.time | date: '%s' %}
 
           {% assign count = 0 %}
           {% assign recent_limit = 5 %}
 
 
             {% for post in site.posts %}
-              {% assign postStartDate = post.date | date: '%s' %}
-              {% if curDate > postStartDate %}
+              {% assign post_start_date = post.date | date: '%s' %}
+              {% if current_date > post_start_date %}
 
               <a class="post-link white-box" href="{{ post.url | prepend: site.baseurl }}">
                 <div class="preview" style="background:{{ post.background }}">
