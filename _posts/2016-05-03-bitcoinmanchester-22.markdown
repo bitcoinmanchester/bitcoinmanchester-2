@@ -1,7 +1,7 @@
 ---
 categories: meetings
 meeting_type: meetup
-title: "Privacy Technology in Cryptocurrencies"
+title: "Privacy Technologies in Cryptocurrencies"
 date: "2016-05-03 19:00"
 venue: MadLab
 address: 36-40 Edge Street, Manchester, M4 1HN
