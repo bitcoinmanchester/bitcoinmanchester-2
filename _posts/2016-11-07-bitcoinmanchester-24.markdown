@@ -11,7 +11,7 @@ venue_location_link: https://madlab.org.uk/find-us/
 # published: false
 ---
 
-This month we have Benjamin Kampmann, developer and community outreach spokesman for [MaidSafe][maidsafe]. He will be live by video feed for a talk and Q&A session about the SAFE Network.
+This month we have Benjamin Kampmann ([@gnunicornBen][@gnunicornBen]), developer and community outreach spokesman for [MaidSafe][maidsafe]. He will be live by video feed for a talk and Q&A session about the SAFE Network.
 
 ## SAFE Network
 
@@ -21,10 +21,12 @@ We will look into the primary goals and objectives of SAFE, the problems and how
 
 ## Pizza & Pub
 
-As always we'll have sponsored pizza provided by one of the Bitcoin-accepting [Takeaway.com][takeaway] vendors.
+As always we'll have sponsored pizza at the event. Sadly [Takeaway.com][takeaway] is no longer operating in the UK, so we will have to order from [Just-Eat][just-eat] and pay with a Bitcoin debit card.
 
 Finally at around 9pm we'll head to the pub, which is our new friend [Terrace][terrace] right next to MadLab.
 
+[@gnunicornBen]: https://twitter.com/gnunicornBen
 [maidsafe]: https://maidsafe.net
 [takeaway]: http://www.takeaway.com
+[just-eat]: https://www.just-eat.co.uk
 [terrace]: https://twitter.com/nqterrace
