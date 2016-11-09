@@ -44,11 +44,6 @@ Around the end of 2015, Max visited Hong Kong and met Leonhard Weese and other m
 </p>
 
 <div class="leaders">
-	<div class="col-33 larry" style="text-align: center;">
-		<b>Organiser</b>
-		<div data-passname="ashmoran" data-style="embedded" data-height="fixed"></div>
-	</div>
-
 	<div class="col-33 leo" style="text-align: center;">
 		<b>Organiser</b>
 		<div data-passname="maxsan" data-style="embedded" data-height="fixed"></div>
