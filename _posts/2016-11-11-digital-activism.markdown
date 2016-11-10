@@ -5,7 +5,7 @@ title: "Digital Activism"
 date: "2016-11-11 10:00"
 venue: MadLab
 address: 36-40 Edge Street, Manchester, M4 1HN
-link: http://www.esrcmanchesterfest.ac.uk/events/digital-activism/
+link: https://www.eventbrite.co.uk/e/digital-activism-tickets-28757271774
 venue_location_link: https://madlab.org.uk/find-us/
 # background: "url(/media/meetings/201x/xx/xxx.png) #112233"
 # published: false
@@ -23,13 +23,12 @@ The financial landscape is changing. The talk will mention what we can see in th
 
 ## Ticket and contact details
 
-[Register for this event at Eventbrite.][ticket]
+[Register for this event]({{page.link}})
 
 For further details, contact: Thomas Redshaw ([thomas.redshaw@manchester.ac.uk][tr_email])
 
 Follow this event on Twitter: [@ActivismMcr][twitter] (tweet with the hashtag [#digitalactivismMCR][tag])
 
-[ticket]: https://twitter.com/nqterrace
 [tr_email]: mailto:thomas.redshaw@manchester.ac.uk
 [twitter]: https://twitter.com/ActivismMcr
 [tag]: https://twitter.com/hashtag/digitalactivismMCR
