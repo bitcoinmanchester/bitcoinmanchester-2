@@ -5,7 +5,7 @@ title: "Lightning Network - Lightning Talks"
 date: "2017-03-06 19:00"
 venue: MadLab
 address: 36-40 Edge Street, Manchester, M4 1HN
-link: https://www.meetup.com/Bitcoin-Manchester/events/235101015/
+link: https://www.meetup.com/Bitcoin-Manchester/events/237523567/
 venue_location_link: https://madlab.org.uk/find-us/
 # background: "url(/media/meetings/201x/xx/xxx.png) #112233"
 # published: false
