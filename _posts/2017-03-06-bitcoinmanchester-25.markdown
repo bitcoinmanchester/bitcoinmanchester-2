@@ -19,13 +19,16 @@ We will start the night with a high level overview of the system and how it work
 
 Lightning may just be the answer that everyone was originally looking for with micro transcations, ultra cheap and massively scalable. Lets hear those ideas!
 
-Highly encouraged that the audiance coming may want to produce a single image or a concept to pitch to the group. It is not a requirement but the more the better.
+Highly encouraged that the audience coming may want to produce a single image or a concept to pitch to the group. It is not a requirement but the more the better.
 
 If you are unfamiliar with lightning information can be found in the following places.
 
 [Lightning Network][https://lightning.network/]
+
 [Bitcoin Magazine - Lightning Part I][part1]
+
 [Bitcoin Magazine - Lightning Part II][part2]
+
 [Bitcoin Magazine - Lightning Part III][part3]
 
 ## Pizza & Pub
