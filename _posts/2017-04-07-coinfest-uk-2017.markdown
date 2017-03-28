@@ -1,0 +1,20 @@
+---
+categories: meetings
+meeting_type: meetup
+title: "Coinfest 2017"
+date: "2017-04-07 09:00"
+venue: Manchester Conference Centre
+address: M1 3BB
+link: http://coinfestuk.org/
+venue_location_link: http://www.manchesterconferencecentre.com/location/
+# background: "url(/media/meetings/201x/xx/xxx.png) #112233"
+# published: false
+---
+
+CoinFestUK 2017 is taking place at the Manchester Conference Centre (M1 3BB) in Manchester on April 7th & 8th 2017, the event will feature a range of speaker presentations, exhibitions, workshops and a documentary screening followed by a Q&A with the film's producer. The even will feature speakers like Alejandro DeLaTorre from BTC.com, Gary Broadfield from Bitcoin and The Law, Ronny Boesing from OpenLedger, and many more.
+
+Attendees will also be educated in the basics of Bitcoin and Mining, and other workshops including Intro to Blockchain, Smart Contracts and Distributed Databases hosted by Glynn Bird and a workshop hosted by the HackerHouse team where they will be demoing their cyber security training modules.
+
+The CoinFestUK event is free to attend and tickets are available now via the website, although [tickets][tickets] aren't required to attend the event they are promoted as each ticket will be linked to its own raffle ID with scanned tickets being entered into the event's raffles each day. Raffle prizes currently include Bitcoin debit cards, tshirts from the BitcoinStore, custom cold storage wallets and Bitcoin related books and collectible crypto goodies.
+
+[tickets]: https://www.coinfestuk.org/tkts/index.php
