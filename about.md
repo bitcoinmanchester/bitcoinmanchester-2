@@ -23,6 +23,8 @@ Bitcoin Manchester is open to all individuals and businesses who have an interes
 
 * Join our [Mailing List](https://groups.google.com/d/forum/bitcoin-manchester) to discuss the group and receive announcements by email.
 
+* Join our [Telegram Chat Group](https://telegram.me/joinchat/C-JzxAqUBzsuN5MCNxV4dQ) for a live casual chat about our events and cryptocurrency.
+
 ## History
 
 Bitcoin Manchester was founded by [Max Flores][maxsan] and [Ash Moran][ashmoran] who met at the Bitcoin Conference London 2012. Nine months later they met again by accident in Manchester. They had both been independently thinking that Manchester needed a meeting point for Bitcoin enthusiasts, and so Bitcoin Mancester was formed.
@@ -43,14 +45,7 @@ Around the end of 2015, Max visited Hong Kong and met Leonhard Weese and other m
 	</a>!
 </p>
 
-<div class="leaders">
-	<div class="col-33 leo" style="text-align: center;">
-		<b>Organiser</b>
-		<div data-passname="maxsan" data-style="embedded" data-height="fixed"></div>
-	</div>
-</div>
-
-[maxsan]: https://onename.com/maxsan
+[maxsan]: https://twitter.com/MaaxSan
 [ashmoran]: https://onename.com/ashmoran
 [shrug]: https://shrug.org/
 [bitcoinhk]: https://www.bitcoinhk.org/members/
