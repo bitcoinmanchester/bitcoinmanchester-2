@@ -9,7 +9,7 @@ published: true
 
 #Statement - Hard Forks
 
-**This statement is regarding are rejection of SegWit2x first and outright with other past and future situtions taken into consideration**
+**This statement is regarding the rejection of SegWit2x first and outright with other past and future situtions taken into consideration**
 
 It is not possible to speak for every person in a community written only by the most vocal in a group, although, as do many other groups we exist to try and support and educate the local population. A prominent issue is the consistent misinformation and coercing of new people to use alternative consensus implementations which are simply incompatible with the current Bitcoin network.
 
