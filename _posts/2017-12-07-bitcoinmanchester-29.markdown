@@ -2,7 +2,7 @@
 categories: meetings
 meeting_type: meetup
 title: "BitStashers, Storing Crypto"
-date: "2017-13-07 19:00"
+date: "2017-12-07 19:00"
 venue: MadLab
 address: 36-40 Edge Street, Manchester, M4 1HN
 link: https://www.meetup.com/Bitcoin-Manchester/events/245368619/
