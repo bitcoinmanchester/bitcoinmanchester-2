@@ -27,7 +27,7 @@ Redefining the internet, empowering user innovation and redistributing wealth mo
 
 ## Pizza & Pub
 
-As always at around 9pm we'll head to the pub which includes pizza.
+As always after the presentation we'll head to the pub which includes pizza.
 
 ## Disclaimer
 
