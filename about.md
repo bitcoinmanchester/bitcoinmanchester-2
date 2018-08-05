@@ -17,6 +17,24 @@ Bitcoin Manchester is open to all individuals and businesses who have an interes
 * Educate all private, public, and government stakeholders about the benefits and risks of Bitcoin and related technology
 * Be a valuable and trusted resource for the local Bitcoin community
 
+## Services
+
+We run a number of Bitcoin nodes and Lightning nodes to support the network. These are publicly connectable and provide infrastructure and liquidity respectively.
+
+~~~
+/Satoshi:0.16.0/ - 82.23.106.56:8333
+02866bd9513e4e82f250c9b8a0b83cabc9be3c4824f7016bd160859d0fad3d8920@82.23.106.56:9735
+~~~
+
+~~~
+/btcwire:0.5.0/btcd:0.12.0/ - 89.238.166.235:5158
+02f665f48119bcb606bf6f9519fa2a56ac078cfa31d7d9e34e784b1b326d9ff0ec@89.238.166.235:9735
+~~~
+
+## Social
+
+Frequent social events are hosted which are not announced on the main site unless a speaker is present but come along and meet the cryptoscene in Manchester. Detais can be found on [Meetup.com Group](http://www.meetup.com/Bitcoin-Manchester/).
+
 ## Become a Member
 
 * Join our [Meetup.com Group](http://www.meetup.com/Bitcoin-Manchester/) to be alerted immediately about new events! (Events are open to anyone and replying on Meetup.com is optional.)
