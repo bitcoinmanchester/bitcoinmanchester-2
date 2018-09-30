@@ -1,35 +1,46 @@
 ---
 categories: meetings
 meeting_type: meetup
-title: "Crypto & Token Economics"
+title: "Money, Bitcoin, and other Cryptocurrencies"
 date: "2018-10-18 18:30"
 venue: The Landing
 address: Conference Hall @ Studio 7, The Landing, Media City
 link: https://www.meetup.com/Bitcoin-Manchester/events/254238622/
-venue_location_link: https://www.thelanding.org.uk/
+venue_location_link: https://www.google.com/maps/place/53%C2%B028'23.1%22N+2%C2%B017'58.7%22W/@53.47309,-2.299633,17z
 # background: "url(/media/meetings/201x/xx/xxx.png) #112233"
 # published: false
 ---
 
-Introducing Dr Anish Mohammed
+Michael Holmes has several years experience in economics and financial markets; specialising for three years in cryptocurrency investment.
 
-Anish is an accomplished multi disciplinarian who has worked as medical doctor, bioinformatician, strategy consultant and cryptographer. He has spend half his career researching cryptographic algorithms and protocols at three different research groups. His main focus is currently to work on projects involving security, scalability and consensus of blockchains, using smart contracts for AI safety, crypto-economics, and token engineering, including the design of over a dozen blockchain protocols. Anish is a regular speaker and contributor in the areas of AI, cybersecurity, fintech and blockchain. He is also on the advisory boards of Adjoint, Arteia, Devvio, Hyper-loop Transport Technologies, Privacy Shell, Collider-X, Glance Technologies, IEET, EA Ventures, Ripple Labs and Chain of Things. He is also the cofounder of Ethicsnet, cofounder & CTO of Ontici, Chief Science Officer at Blockchainsmokers, and head of research at the Information Sciences Institute at SRH Berlin.
 
-You can check out Anishs talks and videos as below and be ready with your q&a;
-https://anish-mohammed-shs2.squarespace.com/
+Presentation content will include:
 
-The Landing is a collaborative and social space that offers excellent food and drinks. For more information on the venue, please see here (https://www.social7.co.uk/)
+- Properties of Money
+- Functions of Money
+- History of Money
+- Monetary issues
+- Bitcoin history & basics
+- Obtaining Bitcoin
+- Altcoins
 
-6:30pm Networking / Food/ registration - meet at the private Bar
-7:00pm Crypto-currencies vs Fiat currencies
-7:45pm Break/drinks at Bar
-8:00pm Crypto/Token Economics /Q&A
-9:00PM Networking at the Bar
-10:00pm close
 
-There will be a donation box for those who can and wish to donate to help facilitate our the set up of our event eg, speaker's expenses and event running costs.
+Max will present Lightning Network (LN) content which will include:
 
-Please donate as you much or little as you wish.
+- LN History
+- LN Growth
+- BIP 157 / 158 (Neutrino)
+- Splicing
+- Multipath Payments
+- RGB
+- Mixed concepts
+
+We expect to proceed as follows;
+
+- 18:30- 19:00 Networking
+- 19:00- 20:00 Michael Holmes
+- 20:15- 21:00 MaxSan
+- 21:00- 22:00 Networking
 
 ## Disclaimer
 
