@@ -15,7 +15,7 @@ Supporting the Blockchain Manchester crew this month.
 
 We have two main topics for the next meetup.
 
-Joshua, a regular at the Bockchain Manchester meetups, and a privacy advocate, is going to give us a run down of "Privacy for Dummies: Blockchain Edition".
+Joshua, a regular at the Blockchain Manchester meetups, and a privacy advocate, is going to give us a run down of "Privacy for Dummies: Blockchain Edition".
 
 After that we will explore the Bitcoin Lightning Network ⚡
 
